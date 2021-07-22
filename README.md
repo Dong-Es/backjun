@@ -31,3 +31,4 @@
 |10797|10부제|https://www.acmicpc.net/problem/10797|Python|
 |1712|손익분기점|https://www.acmicpc.net/problem/1712|Python|
 |5543|상근날드|https://www.acmicpc.net/problem/5543|Python|
+|2752|세수정렬|https://www.acmicpc.net/problem/2752|Python|

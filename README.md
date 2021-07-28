@@ -37,3 +37,5 @@ BackJoon problem programming
 |2480|주사위 세개|https://www.acmicpc.net/problem/2480|Python|
 |10156|과자|https://www.acmicpc.net/problem/10156|Python|
 |2530|인공지능 시계|https://www.acmicpc.net/problem/2530|Python|
+|5532|방학 숙제|https://www.acmicpc.net/problem/5532|Python|
+|10101|삼각형 외우기|https://www.acmicpc.net/problem/10101|Python|

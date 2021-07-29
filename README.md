@@ -19,7 +19,7 @@ BackJoon problem programming
 |1330|두 수 비교하기|https://www.acmicpc.net/problem/1330|Java,Python|
 |9498|시험 성적|https://www.acmicpc.net/problem/9498|Java,Python|
 |2753|	윤년|https://www.acmicpc.net/problem/2753|Java,Python|
-|14681|	사분면 고르기|https://www.acmicpc.net/problem/14681|Python|
+|14681|	사분면 고르기|https://www.acmicpc.net/problem/14681|Java,Python|
 |2739|구구단|https://www.acmicpc.net/problem/2739|Java,Python|
 |10950|A+B - 3|https://www.acmicpc.net/problem/10950|Java,Python|
 |8393|합|https://www.acmicpc.net/problem/8393|Java,Python|

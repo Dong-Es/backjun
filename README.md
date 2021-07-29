@@ -23,10 +23,10 @@ BackJoon problem programming
 |2739|구구단|https://www.acmicpc.net/problem/2739|Java,Python|
 |10950|A+B - 3|https://www.acmicpc.net/problem/10950|Java,Python|
 |8393|합|https://www.acmicpc.net/problem/8393|Java,Python|
-|2741|N 찍기|https://www.acmicpc.net/problem/2741|Java|
-|2742	|	기찍 N|https://www.acmicpc.net/problem/2742|Java|
+|2741|N 찍기|https://www.acmicpc.net/problem/2741|Java,Python|
+|2742	|	기찍 N|https://www.acmicpc.net/problem/2742|Java,Python|
 |11021|A+B - 7|https://www.acmicpc.net/problem/11021|Java,Python|
-|11022|	A+B - 8|https://www.acmicpc.net/problem/11022|Java|
+|11022|	A+B - 8|https://www.acmicpc.net/problem/11022|Java,Python|
 |2438|별 찍기 - 1|https://www.acmicpc.net/problem/2438|Java,Python|
 |2884|알람 시계|https://www.acmicpc.net/problem/2884|Java,Python|
 |10797|10부제|https://www.acmicpc.net/problem/10797|Python|

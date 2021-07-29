@@ -32,7 +32,7 @@ BackJoon problem programming
 |10797|10부제|https://www.acmicpc.net/problem/10797|Java,Python|
 |1712|손익분기점|https://www.acmicpc.net/problem/1712|Python|
 |5543|상근날드|https://www.acmicpc.net/problem/5543|Python|
-|2752|세수정렬|https://www.acmicpc.net/problem/2752|Python|
+|2752|세수정렬|https://www.acmicpc.net/problem/2752|Java,Python|
 |2525|오븐 시계|https://www.acmicpc.net/problem/2525|Python|
 |2480|주사위 세개|https://www.acmicpc.net/problem/2480|Python|
 |10156|과자|https://www.acmicpc.net/problem/10156|Python|

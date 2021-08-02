@@ -2,7 +2,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class back2752 {
+public class main {
 
     public static void main(String[] args) {
 

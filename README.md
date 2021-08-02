@@ -30,7 +30,7 @@ BackJoon problem programming
 |2438|별 찍기 - 1|https://www.acmicpc.net/problem/2438|Java,Python|
 |2884|알람 시계|https://www.acmicpc.net/problem/2884|Java,Python|
 |10797|10부제|https://www.acmicpc.net/problem/10797|Java,Python|
-|1712|손익분기점|https://www.acmicpc.net/problem/1712|Python|
+|1712|손익분기점|https://www.acmicpc.net/problem/1712|Java,Python|
 |5543|상근날드|https://www.acmicpc.net/problem/5543|Python|
 |2752|세수정렬|https://www.acmicpc.net/problem/2752|Java,Python|
 |2525|오븐 시계|https://www.acmicpc.net/problem/2525|Python|

@@ -37,6 +37,6 @@ BackJoon problem programming
 |10156|과자|https://www.acmicpc.net/problem/10156|Java,Python|
 |2530|인공지능 시계|https://www.acmicpc.net/problem/2530|Python|
 |5532|방학 숙제|https://www.acmicpc.net/problem/5532|Java,Python|
-|5596|시험 점수|https://www.acmicpc.net/problem/5596|Python|
+|5596|시험 점수|https://www.acmicpc.net/problem/5596|Java,Python|
 
 

@@ -35,7 +35,7 @@ BackJoon problem programming
 |2752|세수정렬|https://www.acmicpc.net/problem/2752|Java,Python|
 |2480|주사위 세개|https://www.acmicpc.net/problem/2480|Java,Python|
 |10156|과자|https://www.acmicpc.net/problem/10156|Java,Python|
-|2530|인공지능 시계|https://www.acmicpc.net/problem/2530|Python|
+|2530|인공지능 시계|https://www.acmicpc.net/problem/2530|Java,Python|
 |5532|방학 숙제|https://www.acmicpc.net/problem/5532|Java,Python|
 |5596|시험 점수|https://www.acmicpc.net/problem/5596|Java,Python|
 |5596|오븐 시계|https://www.acmicpc.net/problem/2525|Java,Python|

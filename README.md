@@ -39,4 +39,4 @@ BackJoon problem programming
 |5532|방학 숙제|https://www.acmicpc.net/problem/5532|Java,Python|
 |5596|시험 점수|https://www.acmicpc.net/problem/5596|Java,Python|
 |5596|오븐 시계|https://www.acmicpc.net/problem/2525|Java,Python|
-|10818|최소, 최대|https://www.acmicpc.net/problem/10818|Python|
+|10818|최소, 최대|https://www.acmicpc.net/problem/10818|Java,Python|

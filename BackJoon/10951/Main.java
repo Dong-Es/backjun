@@ -12,3 +12,4 @@ public class Main {
             }
         }
     }
+// 자바의 경우 반복문 안에 hasNext()메서드를 사용한다.

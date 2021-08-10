@@ -41,3 +41,4 @@ BackJoon problem programming
 |5596|오븐 시계|https://www.acmicpc.net/problem/2525|Java,Python|
 |10818|최소, 최대|https://www.acmicpc.net/problem/10818|Java,Python|
 |10951|A+B-4|https://www.acmicpc.net/problem/10951|Java,Python|
+|10817|세 수|https://www.acmicpc.net/problem/10817|Java,Python|

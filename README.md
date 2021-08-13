@@ -44,3 +44,4 @@ BackJoon problem programming
 |10817|세 수|https://www.acmicpc.net/problem/10817|Java,Python|
 |10872|팩토리얼|https://www.acmicpc.net/problem/10872|Java,Python|
 |11718|그래도 출력하기|https://www.acmicpc.net/problem/11718|Python|
+|10250|ACM 호텔|https://www.acmicpc.net/problem/10250|Java,Python|

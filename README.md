@@ -45,3 +45,4 @@ BackJoon problem programming
 |10872|팩토리얼|https://www.acmicpc.net/problem/10872|Java,Python|
 |11718|그대로 출력하기|https://www.acmicpc.net/problem/11718|Python|
 |10250|ACM 호텔|https://www.acmicpc.net/problem/10250|Java,Python|
+|4153|직각 삼각형|https://www.acmicpc.net/problem/4153|Python|

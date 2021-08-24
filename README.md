@@ -43,7 +43,7 @@ BackJoon problem programming
 |10951|A+B-4|https://www.acmicpc.net/problem/10951|Java,Python|
 |10817|세 수|https://www.acmicpc.net/problem/10817|Java,Python|
 |10872|팩토리얼|https://www.acmicpc.net/problem/10872|Java,Python|
-|11718|그대로 출력하기|https://www.acmicpc.net/problem/11718|Python|
+|11718|그대로 출력하기|https://www.acmicpc.net/problem/11718|Java,Python|
 |10250|ACM 호텔|https://www.acmicpc.net/problem/10250|Java,Python|
 |4153|직각 삼각형|https://www.acmicpc.net/problem/4153|Python|
 |2747|피보나치 수|https://www.acmicpc.net/problem/2747|Python|

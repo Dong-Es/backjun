@@ -1,3 +1,4 @@
+#I love krill(10171)
 print("\\    /\\")
 print(" )  ( ')")
 print("(  /  )")

@@ -49,3 +49,5 @@ BackJoon problem programming
 |2747|피보나치 수|https://www.acmicpc.net/problem/2747|Python|
 |3009|네번째 점|https://www.acmicpc.net/problem/3009|Python|
 |2163|초코릿 자르기|https://www.acmicpc.net/problem/2163|Python|
+|1085|직사각형 탈출하기|https://www.acmicpc.net/problem/1085|Python|
+

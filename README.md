@@ -46,7 +46,7 @@ BackJoon problem programming
 |11718|그대로 출력하기|https://www.acmicpc.net/problem/11718|Java,Python|
 |10250|ACM 호텔|https://www.acmicpc.net/problem/10250|Java,Python|
 |4153|직각 삼각형|https://www.acmicpc.net/problem/4153|Java,Python|
-|2747|피보나치 수|https://www.acmicpc.net/problem/2747|Python|
+|2747|피보나치 수|https://www.acmicpc.net/problem/2747|Java,Python|
 |3009|네번째 점|https://www.acmicpc.net/problem/3009|Python|
 |2163|초코릿 자르기|https://www.acmicpc.net/problem/2163|Java,Python|
 |1085|직사각형 탈출하기|https://www.acmicpc.net/problem/1085|Java,Python|

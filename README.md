@@ -50,4 +50,4 @@ BackJoon problem programming
 |3009|네번째 점|https://www.acmicpc.net/problem/3009|Python|
 |2163|초코릿 자르기|https://www.acmicpc.net/problem/2163|Java,Python|
 |1085|직사각형 탈출하기|https://www.acmicpc.net/problem/1085|Java,Python|
-|2490||https://www.acmicpc.net/problem/2490|Python|
+|2490|윷놀이|https://www.acmicpc.net/problem/2490|Python|

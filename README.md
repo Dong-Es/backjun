@@ -53,5 +53,5 @@ BackJoon problem programming
 |2490|윷놀이|https://www.acmicpc.net/problem/2490|Java,Python|
 |2455|지능형 지하철|https://www.acmicpc.net/problem/2455|Java,Python|
 |1009|분산 처리|https://www.acmicpc.net/problem/1009|Java,Python|
-|5086|배수와 약수|https://www.acmicpc.net/problem/5086|Python|
+|5086|배수와 약수|https://www.acmicpc.net/problem/5086|Java,Python|
 

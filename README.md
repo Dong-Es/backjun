@@ -55,3 +55,4 @@ BackJoon problem programming
 |1009|분산 처리|https://www.acmicpc.net/problem/1009|Java,Python|
 |5086|배수와 약수|https://www.acmicpc.net/problem/5086|Java,Python|
 |2576|홀수|https://www.acmicpc.net/problem/2576|Python|
+|2593|나는 요리사다|https://www.acmicpc.net/problem/2593|Python|

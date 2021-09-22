@@ -57,3 +57,5 @@ BackJoon problem programming
 |2576|홀수|https://www.acmicpc.net/problem/2576|Python|
 |2953|나는 요리사다|https://www.acmicpc.net/problem/2953|Python|
 |2577|숫자의 갯수|https://www.acmicpc.net/problem/2577|Python|
+|11720|숫자의 합|https://www.acmicpc.net/problem/11720|Python|
+|15552|빠른 A+B|https://www.acmicpc.net/problem/15552|Python|

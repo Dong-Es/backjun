@@ -59,3 +59,4 @@ BackJoon problem programming
 |2577|숫자의 갯수|https://www.acmicpc.net/problem/2577|Python|
 |11720|숫자의 합|https://www.acmicpc.net/problem/11720|Python|
 |15552|빠른 A+B|https://www.acmicpc.net/problem/15552|Python|
+|2562|최댓값|https://www.acmicpc.net/problem/2562|Python|

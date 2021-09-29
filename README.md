@@ -61,3 +61,4 @@ BackJoon problem programming
 |15552|빠른 A+B|https://www.acmicpc.net/problem/15552|Python|
 |2562|최댓값|https://www.acmicpc.net/problem/2562|Python|
 |8958|OX퀴즈|https://www.acmicpc.net/problem/8958|Python|
+|1152|단어의 갯수|https://www.acmicpc.net/problem/1152|Python|

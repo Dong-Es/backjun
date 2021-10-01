@@ -1,5 +1,5 @@
-# Backjoon_problem
-BackJoon problem programming
+# Baekjoon_problem
+BaekJoon problem programming
 <hr>
 문제풀이 연습 및 공부  <br>
 
@@ -62,3 +62,4 @@ BackJoon problem programming
 |2562|최댓값|https://www.acmicpc.net/problem/2562|Python|
 |8958|OX퀴즈|https://www.acmicpc.net/problem/8958|Python|
 |1152|단어의 갯수|https://www.acmicpc.net/problem/1152|Python|
+|10809|알파벳 찾기|https://www.acmicpc.net/problem/10809|Python|

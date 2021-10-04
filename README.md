@@ -63,3 +63,4 @@ BaekJoon problem programming
 |8958|OX퀴즈|https://www.acmicpc.net/problem/8958|Python|
 |1152|단어의 갯수|https://www.acmicpc.net/problem/1152|Python|
 |10809|알파벳 찾기|https://www.acmicpc.net/problem/10809|Python|
+|3052|나머지|https://www.acmicpc.net/problem/3052|Python|

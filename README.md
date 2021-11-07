@@ -66,6 +66,7 @@ BaekJoon problem programming
 |3052|나머지|https://www.acmicpc.net/problem/3052|Python|
 |2675|문자열 반복|https://www.acmicpc.net/problem/2675|Python|
 |2908|상수|https://www.acmicpc.net/problem/2908|Python|
+|1934|최소 공배수|https://www.acmicpc.net/problem/1934|Python|
 <hr>
 
 # University programing

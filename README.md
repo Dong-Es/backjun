@@ -71,5 +71,3 @@ rank: bronze3
 |1247|부호 |https://www.acmicpc.net/problem/1247|Python|
 <hr>
 
-# University programing
-실습 및 문제 풀이
